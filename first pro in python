@@ -1,0 +1,6 @@
+def maim():
+    print("hello my frist code")
+    print("Hello my secend code")
+
+
+if __name__ == '__main__':maim()
